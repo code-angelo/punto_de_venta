@@ -1,0 +1,2 @@
+[2019-11-10 21:00:05] local.ERROR: SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+ (SQL: select * from `users` where `email` = user@mail.com limit 1)  
